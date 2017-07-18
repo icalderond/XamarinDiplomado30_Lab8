@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Manejo de recursos en Android</string>
+	<string name="username">Israel Calderon</string>
+	<string name="nombre_usuario">Nombre del usuario</string>
+	<string name="status">Estatus</string>
+	<string name="token">Código</string>
+</resources>
